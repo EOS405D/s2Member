@@ -1,0 +1,4 @@
+I am using S2 member pro. Because of the changes in europien law GDPO I 'vs changed the transferprotocol from HTTP to HTTPS.
+But I allways get an error message caused through S2 Member Pro.
+Mixed Content: The page at 'https://ikvag.de/' was loaded over HTTPS, but requested an insecure image 'http://ikvag.de/wp-content/plugins/s2member/src/images/ajax-loader.gif'. This content should also be served over HTTPS.
+How could that be fixed?
